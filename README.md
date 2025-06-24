@@ -22,6 +22,12 @@ This task provided valuable hands-on experience with combining computer vision a
 
 The entire project, including the Colab notebook (task4_image_caption_generator.ipynb), test image, output caption file, and the screenshot proof, is uploaded to my GitHub repository as evidence of successful implementation, fulfilling all requirements for Task 4 of my CodTech AI internship.
 
-Image used
+IMAGE USED
+
+
+![Image](https://github.com/user-attachments/assets/77616942-bbbb-47f8-8587-b449ce014a63)
+
+OUTPUT:
+
 
 
