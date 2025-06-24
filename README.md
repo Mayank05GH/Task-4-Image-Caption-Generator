@@ -24,8 +24,6 @@ The entire project, including the Colab notebook (task4_image_caption_generator.
 
 IMAGE USED
 
-[caption_output.txt](https://github.com/user-attachments/files/20878817/caption_output.txt)
-
 
 
 ![Image](https://github.com/user-attachments/assets/77616942-bbbb-47f8-8587-b449ce014a63)
