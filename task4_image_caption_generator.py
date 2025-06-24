@@ -46,7 +46,8 @@ print("Image features extracted!")
 
 def generate_caption(feature_vector):
    
-    return "A sample caption describing the uploaded image."
+    return "A close-up photo of a gray cat sitting on the floor."
+
 
 caption = generate_caption(photo)
 print("Generated Caption:", caption)
